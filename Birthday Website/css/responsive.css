@@ -1,0 +1,43 @@
+/* ==========================
+   RESPONSIVE
+========================== */
+
+@media(max-width:768px){
+
+nav{
+
+padding:15px 20px;
+
+flex-direction:column;
+
+gap:15px;
+
+}
+
+nav ul{
+
+gap:20px;
+
+font-size:14px;
+
+}
+
+.hero-content h1{
+
+font-size:70px;
+
+}
+
+.hero-content h2{
+
+font-size:20px;
+
+}
+
+.hero-content button{
+
+padding:16px 30px;
+
+}
+
+}
